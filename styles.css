@@ -1,0 +1,78 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color: indigo;
+}
+#banner {
+    width: 100%;
+    object-fit: cover;
+}
+.location {
+    color: gray;
+    margin-bottom: 16px;
+}
+#about{
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 8px;
+}
+#description{
+    width: 50%;
+    padding-right: 8px;
+}
+#team{
+    width: 50%;
+}
+#navbar{
+    padding: 8px;
+    margin: 0px;
+}
+#logo{
+    height: 30px;
+}
+#team-image{
+    border-radius: 5px;
+    width: 100%;
+}
+h2{
+    text-align: center;
+}
+#jobs{
+    max-width: 800px;
+    margin: 0 8px;
+    padding: 0 8px;
+}
+h3{
+    margin-bottom: 4px;
+    margin-top: 0;
+}
+.apply{
+    float: right;
+}
+a{
+    text-decoration: none;
+}
+#footer-link{
+    list-style: none;
+}
+#footer{
+    background-color: aliceblue;
+    text-align: center;
+    padding: 8px;
+    margin-top: 32px;
+}
+#courses{
+    background-color: ghostwhite;
+}
+.copyright{
+    color: gray;
+}
+#footer-link li{
+    display: inline;
+    margin: 0 16px;
+}
